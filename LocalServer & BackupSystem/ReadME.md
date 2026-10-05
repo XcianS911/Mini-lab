@@ -2,7 +2,7 @@
 
 This lab is a small-scale simulation of a local server infrastructure consisting of two devices.
 The first device is used as the primary server, while the second device is used as a backup storage server.
-.
+
 Lab ini merupakan simulasi infrastruktur server lokal kecil yang terdiri dari 2 perangkat, perangkat pertama digunakan sebagai server utama,
 sedangkan perangkat kedua digunakan sebagai server penyimpanan backup data.
 
@@ -28,7 +28,7 @@ OpenSSH server
 -Configure encryption for secure communication.
 -Connect to and remotely manage the virtual machines using MobaXterm.
 -Create a backup system and backup shortcuts on the virtual machine.
-.
+
 -Melakukan Instalasi Linux pada kedua virtual machine didalam perangkat jaringan
 -Mengkonfigurasi IP address pada kedua virtual machine didalam perangkat jaringan
 -Menginstall software OpenSSH Server pada kedua virtual machine
