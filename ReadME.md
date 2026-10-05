@@ -6,11 +6,13 @@ The first device is used as the primary server, while the second device is used 
 Lab ini merupakan simulasi infrastruktur server lokal kecil yang terdiri dari 2 perangkat, perangkat pertama digunakan sebagai server utama,
 sedangkan perangkat kedua digunakan sebagai server penyimpanan backup data.
 
+
 #Device user names
 
 Main device "Miranda"
 
 Secondary device "Ruineva"
+
 
 #Tools and software
 
@@ -24,6 +26,7 @@ Linux
 
 OpenSSH server 
 
+
 #Objectives and steps | Tujuan dan langkah langkah saya
 
 -Install Linux on both virtual machines within the network environment.
@@ -33,11 +36,13 @@ OpenSSH server
 -Install the OpenSSH Server on both devices.
 
 -Configure SSH on both virtual machines.
+
 -Configure encryption for secure communication.
 
 -Connect to and remotely manage the virtual machines using MobaXterm.
 
 -Create a backup system and backup shortcuts on the virtual machine.
+
 
 -Melakukan Instalasi Linux pada kedua virtual machine didalam perangkat jaringan
 
