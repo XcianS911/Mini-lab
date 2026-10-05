@@ -1,4 +1,5 @@
 #Desrciption and Overview | Deskripsi dan Penjelasan
+
 This lab is a small-scale simulation of a local server infrastructure consisting of two devices.
 The first device is used as the primary server, while the second device is used as a backup storage server.
 .
@@ -6,10 +7,12 @@ Lab ini merupakan simulasi infrastruktur server lokal kecil yang terdiri dari 2 
 sedangkan perangkat kedua digunakan sebagai server penyimpanan backup data.
 
 #Device user names
+
 Main device "Miranda"
 Secondary device "Ruineva"
 
 #Tools and software
+
 2 laptops
 Virtual machine on each device
 MobaXterm on main device
@@ -17,6 +20,7 @@ Linux
 OpenSSH server 
 
 #Objectives and steps | Tujuan dan langkah langkah saya
+
 -Install Linux on both virtual machines within the network environment.
 -Configure the IP address on both virtual machines.
 -Install the OpenSSH Server on both devices.
