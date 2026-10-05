@@ -32,9 +32,7 @@ OpenSSH server
 -Menginstall software OpenSSH Server pada kedua virtual machine
 -Melakukan konfigurasi ssh pada kedua virtual machine didalam perangkat jaringan
 -Melakukan enkripsi
-
 -Menghubungkannya dengan MobaXterm
-
 -Membuat sistem dan shortcut backup pada virtual machine
 
 
